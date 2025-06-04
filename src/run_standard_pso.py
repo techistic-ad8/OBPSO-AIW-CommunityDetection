@@ -1,5 +1,5 @@
-from src.standard_pso import Standard_PSO
-from src.utils import load_graph, print_result
+from standard_pso import Standard_PSO
+from utils import load_graph, print_result
 
 def main():
     path = input("Enter path to dataset (e.g., datasets/soc-dolphins.mtx): ")
