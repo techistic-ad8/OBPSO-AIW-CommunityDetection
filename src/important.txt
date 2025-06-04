@@ -1,0 +1,3 @@
+Run "combined_obpso_and_standardpso.py" only when you are unable to execute the scripts. 
+
+NOTE : in combined_obpso_and_standardpso.py , the __name__ function is coded according to files which are in .mtx format, if your file is in different format please update the code accordingly else it will raise a error as specified in utils.py

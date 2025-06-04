@@ -1,0 +1,2 @@
+for more graphs, please use python inbuilt networkx framework. 
+multiple popular social network graphs like facebook, karate, etc. are available without the need of downloading them.
